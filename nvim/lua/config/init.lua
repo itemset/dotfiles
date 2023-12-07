@@ -1,0 +1,5 @@
+require("config.settings")
+require("config.packer")
+require("config.lualine")
+require("config.cmp")
+require("config.map")
